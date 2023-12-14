@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moisés
-- 👀 I’m interested in ... app development
-- 🌱 I’m currently learning ... New technologies and I try to keep up to date
+- 👀 I’m interested in ... keep me alive
+- 🌱 I’m currently learning ... anything 
 - 📫 How to reach me ... My Discord: moisba
 
 <!---
